@@ -1,0 +1,14 @@
+body{
+    font-size: 16px;
+}
+.table2 tr th,.table2 tr td{
+    border: 1px solid #333;
+    border-collapse: collapse;
+    padding: 6px 10px;
+}
+.th1{
+    background-color: goldenrod;
+}
+.th2{
+    background-color: gold;
+}

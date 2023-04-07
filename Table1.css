@@ -1,0 +1,15 @@
+body {
+    padding:5px
+}
+table {
+    width: 300px;
+    height:100px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td{
+    border: 1px solid black;
+}
+th{
+    background-color: gold;
+}
